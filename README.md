@@ -36,10 +36,10 @@ deactivate
 python app.py
 ```
 
-## What can do next
+## Next steps
 
 * API Access by tokens
 * Fallback to another providers (thanks to SpeechRecognition library)
 * Fine tune recognition lib
-* Idea: try recognize audio with several libs => check with some grammatic lib and chooses best result
-* Make callback endpoint => suitable for large files
+* Recognize audio probation with several libs => check with some grammatic lib and choose the best result
+* Make a callback endpoint => suitable for large files
